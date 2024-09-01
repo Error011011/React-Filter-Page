@@ -1,3 +1,6 @@
+REACT FILTER PAGE WITH FILTER AND SEARCH OPTIONS. 
+TECH STACK: REACT, TAILWIND
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
